@@ -1,0 +1,8 @@
+node_modules
+.temp
+package-lock.json
+result
+login.json
+login
+group_id.txt
+nowas.txt
